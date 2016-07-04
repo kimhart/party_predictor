@@ -20,7 +20,7 @@ A user should be able to:
 
 ### Tech Deetz
 
-####This app is built with:
+This app is built with:
 
 * MongoDB, Express, Angular, Node.js
 * Python
