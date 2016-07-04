@@ -1,5 +1,7 @@
 # Party Predictor
 
+![Herman](readme_images/herman.gif)
+
 ### Purpose
 
 Utilize machine learning to determine political party preference of user based on short quiz of multiple choice questions.
@@ -24,5 +26,5 @@ This app is built with:
 
 * MongoDB, Express, Angular, Node.js
 * Python
-* Csikit Learn
+* Scikit Learn
 * HTML, CSS, Javascript/jQuery
