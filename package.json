@@ -1,0 +1,29 @@
+{
+  "name": "party_predictor",
+  "version": "1.0.0",
+  "description": "Predicts user's political party affiliation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimhart/party_predictor.git"
+  },
+  "keywords": [],
+  "author": "Kim Hart, Alex Hubbard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimhart/party_predictor/issues"
+  },
+  "homepage": "https://github.com/kimhart/party_predictor#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "body-parser": "^1.15.2",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.5.3"
+  }
+}
