@@ -16,7 +16,7 @@ mongoose.connect(mongoUrl);
 
 
 app.get('/', function(req, res){
-  res.send('hey there');
+  res.render('index.ejs');
 });
 
 app.listen(process.env.PORT || 3000);
